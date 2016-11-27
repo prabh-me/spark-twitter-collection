@@ -1,3 +1,5 @@
+forked from pwendell/spark-twitter-collection
+
 How to run this from scratch on EC2:
 
 1. Launch Ubuntu 12.04 on Amazon (m1.medium)
